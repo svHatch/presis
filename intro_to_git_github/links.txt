@@ -1,0 +1,11 @@
+https://github.com/RamblingCookieMonster/Git-Presentation
+https://stackoverflow.com/questions/1408450/why-should-i-use-version-control
+https://www.git-tower.com/learn/git/ebook/en/desktop-gui/basics/why-use-version-control
+http://hgbook.red-bean.com/read/how-did-we-get-here.html
+http://marklodato.github.io/visual-git-guide/index-en.html
+https://www.earthdatascience.org/workshops/intro-version-control-git/
+https://rogerdudler.github.io/git-guide/
+https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf
+https://courses.cs.washington.edu/courses/cse403/13au/lectures/git.ppt.pdf
+https://bytesclub.github.io/docs/git.pptx
+http://deepcs.njit.edu/git.php
